@@ -1,3 +1,3 @@
 # Proyecto-final-tica
 
-buenas
+Este es el proyecto final de ética
